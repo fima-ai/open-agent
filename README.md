@@ -1,5 +1,5 @@
-# OpenAgent: A Framework for Adaptive AI Agents
-General purpose AI agent 'framework' and real world examples
+# OpenAgent
+General purpose AI agent 'framework' for Adaptive AI Agents
 
 ## Abstract  
 This document outlines the vision, architecture, and implementation strategy for OpenAgent, an open-source AI agent framework designed to deliver scalable, adaptable, and efficient solutions for task and knowledge management in real-world applications.
