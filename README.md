@@ -41,7 +41,7 @@ The landscape of AI tools has rapidly evolved, but a significant gap remains in 
 ## Architecture Overview  
 - **Core Modules**: Handle agent capabilities and task orchestration.  
 - **Knowledge Repository**: Centralized access to all knowledge features.  
-- **Feedback Loop**: **Feedback Loop**: Optimize performance using TensorZero's feedback loop mechanisms. ([tensorzero.com](https://www.tensorzero.com/docs)).  
+- **Feedback Loop**: Optimize performance using TensorZero's feedback loop mechanisms. ([tensorzero.com](https://www.tensorzero.com/docs)).  
 
 ### Diagram (to be added):  
 [High-level architecture of OpenAgent]
