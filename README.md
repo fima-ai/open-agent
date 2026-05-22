@@ -1,5 +1,30 @@
 # OpenAgent
-General purpose AI agent 'framework' for Adaptive AI Agents
+
+
+
+<h1 align="center">
+  <br/>
+  <a href="https://selenium.dev"><img src="https://avatars.githubusercontent.com/u/185300533?s=200&v=4" alt="Selenium" width="100"></a>
+  <br/>
+  open-agent
+  <br/>
+</h1>
+
+<h3 align="center">General purpose AI agent 'framework' for Adaptive AI Agents</h3>
+
+<p align="center">
+  <a href="#abstract">Abstract</a> •
+  <a href="#introduction">Introduction</a> •
+  <a href="#goals">Goals</a> •
+  <a href="#features">Features</a> •
+  <a href="#architecture">Architecture Overview</a> •
+  <a href="#implementation">Implementation</a> •
+  <a href="#roadmap">Roadmap</a>
+</p>
+
+<br>
+
+
 
 ## Abstract  
 This document outlines the vision, architecture, and implementation strategy for OpenAgent, an open-source AI agent framework designed to deliver scalable, adaptable, and efficient solutions for task and knowledge management in real-world applications.
